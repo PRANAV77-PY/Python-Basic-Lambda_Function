@@ -1,0 +1,12 @@
+names = ["Charlie","Bob","Alice"]
+
+names.sort(key = lambda name: len(name))
+
+print(names)
+
+#
+parametr = ['John','alice','jack']
+
+parametr.sort(key= lambda name : len(name))
+
+print(parametr)
